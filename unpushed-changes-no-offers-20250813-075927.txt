@@ -1,0 +1,5 @@
+Repository: beepmedia/mcp/mcp-dev/mcp-xai
+Full path: /Users/andreihasna/Dev/beepmedia/mcp/mcp-dev/mcp-xai
+
+  • Has uncommitted changes
+---
